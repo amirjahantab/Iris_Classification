@@ -1,7 +1,3 @@
-Here is a more detailed `README.md` for the `iris.ipynb` Jupyter notebook:
-
----
-
 # Iris Classification Notebook
 
 This Jupyter notebook demonstrates the process of classifying the Iris dataset using various machine learning techniques. The Iris dataset is a classic dataset in the field of machine learning and statistics, often used for testing algorithms.

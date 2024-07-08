@@ -12,16 +12,13 @@ The Iris dataset contains 150 samples of iris flowers, each with four features: 
 To run the notebook, you need the following Python libraries:
 
 - `numpy`
-- `pandas`
 - `matplotlib`
-- `seaborn`
 - `scikit-learn`
-- `jupyter`
 
 You can install these dependencies using `pip`:
 
 ```sh
-pip install numpy pandas matplotlib seaborn scikit-learn jupyter
+pip install numpy matplotlib scikit-learn jupyter
 ```
 
 ## Usage
